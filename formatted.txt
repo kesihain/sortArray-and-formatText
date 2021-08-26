@@ -1,0 +1,14 @@
+Student:001
+Name:Johan Strauss
+House number:58
+PostCode:11600
+State: Pulau Pinang
+Gender:male
+
+Student:002
+Name:Jennifer Teng
+House number:Q-2-4
+PostCode:13000
+State: Kedah
+Gender:female
+

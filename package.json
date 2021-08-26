@@ -1,0 +1,12 @@
+{
+  "name": "assessments",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Task_one.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}

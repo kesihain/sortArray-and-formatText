@@ -1,0 +1,2 @@
+id=001;name=Johan Strauss;address=58 Jalan Jelutong, 11600 Pulau Pinang, Malaysia;gender=male
+id=002;name=Jennifer Teng;address=Q-2-4,Desa Indah, Lorong Minyak, 13000 Kedah, Malaysia;gender=female
